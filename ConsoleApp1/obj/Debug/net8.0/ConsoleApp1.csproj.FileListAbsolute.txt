@@ -1,0 +1,15 @@
+d:\Visual Studio 2019\byron\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+d:\Visual Studio 2019\byron\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+d:\Visual Studio 2019\byron\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+d:\Visual Studio 2019\byron\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+d:\Visual Studio 2019\byron\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+d:\Visual Studio 2019\byron\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
